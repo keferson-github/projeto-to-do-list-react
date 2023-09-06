@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
 
+html {
+  margin-top: 100px;
+}
+
 body {
   font-family: "Poppins";
   background-color: #f4f4f4;
