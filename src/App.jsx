@@ -11,7 +11,7 @@ function App() {
 const [todos, setTodos] = useState([
   {
     id: 1,
-    text: "Criar funcionalidade x no sistema",
+    text: "Desenvolvimento front-end",
     category: "Trabalho",
     IsCompleted: false,
   },
@@ -23,7 +23,7 @@ const [todos, setTodos] = useState([
   },
   {
     id: 3,
-    text: "Estudar Javascript",
+    text: "Estudar programação",
     category: "Estudos",
     IsCompleted: false,
   },
