@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
 
 body {
@@ -26,7 +22,7 @@ body {
 
 h1 {
   text-align: center;
-  font-family: "Dancing Script";
+  font-family: "Roboto";
   font-weight: bold;
   text-transform: capitalize;
   font-size: 45px;
