@@ -5,7 +5,7 @@
 body {
   font-family: "Poppins";
   background-color: #f4f4f4;
-  padding: 15px;
+  padding: 0px;
   color: #333;
   background-image: url("./img/bg-img-4.jpg");
   background-position: center;
@@ -55,8 +55,8 @@ button:hover {
 }
 
 .todo-list {
-  margin-bottom: 20px;
-  padding: 20px;
+  margin-bottom: 30px;
+  padding: 5px;
   border-bottom: 1px solid #555;
 }
 

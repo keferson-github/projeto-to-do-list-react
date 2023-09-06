@@ -11,7 +11,7 @@ function App() {
 const [todos, setTodos] = useState([
   {
     id: 1,
-    text: "Desenvolvimento front-end",
+    text: "Atender meus clientes",
     category: "Trabalho",
     IsCompleted: false,
   },
