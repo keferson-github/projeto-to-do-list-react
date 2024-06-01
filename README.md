@@ -1,7 +1,9 @@
 # Projeto To Do List
 ## Lista de Tarefas em React.Js
 ### Conheça o projeto: https://keferson-github.github.io/projeto-to-do-list-react/
+- HTML5
 - CSS3
+- JavaScript
 - React.Js
 - Node.Js
 - Vite
