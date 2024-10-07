@@ -113,7 +113,7 @@ select {
 .filter-options {
   display: flex;
   justify-content: space-between;
-  gap: 3rem;
+  gap: 1rem;
 }
 
 .filter-optinos div {
